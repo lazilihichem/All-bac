@@ -884,6 +884,10 @@ Ensure the default browser behavior of the `hidden` attribute.
     padding-top: 0.75rem;
     padding-bottom: 0.75rem;
   }
+
+  .md\:text-left {
+    text-align: left;
+  }
 }
 
 @media (min-width: 1024px) {
@@ -905,6 +909,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
   .lg\:justify-end {
     justify-content: flex-end;
+  }
+
+  .lg\:text-left {
+    text-align: left;
   }
 
   .lg\:text-right {
