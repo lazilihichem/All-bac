@@ -1,0 +1,81 @@
+.content {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.blue-bg {
+    background-color: #287DC0;
+}
+
+.card-image {
+    height: 100px ;
+}
+
+.bg-1 {
+    background-image: url("sources/bg-01.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-2 {
+    background-image: url("sources/bg-02.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-3 {
+    background-image: url("sources/bg-03.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-4 {
+    background-image: url("sources/bg-04.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-5 {
+    background-image: url("sources/bg-05.png");
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+
+li {
+    padding-top: 4px;
+}
+
+
+
+.bg-slider {
+    background-color: #DEEEE6;
+}
+
+
+
+@font-face {
+    font-family: 'Causten';
+    src: url('sources/Causten-Medium.woff2') format('woff2'),
+        url('sources/Causten-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Causten';
+    src: url('sources/Causten-Bold.woff2') format('woff2'),
+        url('sources/Causten-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Causten';
+    src: url('sources/Causten-Regular.woff2') format('woff2'),
+        url('sources/Causten-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
