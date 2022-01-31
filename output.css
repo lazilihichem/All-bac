@@ -906,4 +906,18 @@ Ensure the default browser behavior of the `hidden` attribute.
   .lg\:justify-end {
     justify-content: flex-end;
   }
+
+  .lg\:text-right {
+    text-align: right;
+  }
+
+  .lg\:text-5xl {
+    font-size: 3rem;
+    line-height: 1;
+  }
+
+  .lg\:text-3xl {
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+  }
 }
